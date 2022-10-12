@@ -9,7 +9,6 @@ D:\Programming\C#\DS3HudPlus\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\l
 D:\Programming\C#\DS3HudPlus\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libraylib.dylib
 D:\Programming\C#\DS3HudPlus\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\raylib.dll
 D:\Programming\C#\DS3HudPlus\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\raylib.dll
-D:\Programming\C#\DS3HudPlus\obj\Debug\netcoreapp3.1\DS3HudPlus.csprojAssemblyReference.cache
 D:\Programming\C#\DS3HudPlus\obj\Debug\netcoreapp3.1\DS3HudPlus.AssemblyInfoInputs.cache
 D:\Programming\C#\DS3HudPlus\obj\Debug\netcoreapp3.1\DS3HudPlus.AssemblyInfo.cs
 D:\Programming\C#\DS3HudPlus\obj\Debug\netcoreapp3.1\DS3HudPlus.csproj.CoreCompileInputs.cache
@@ -17,3 +16,5 @@ D:\Programming\C#\DS3HudPlus\obj\Debug\netcoreapp3.1\DS3HudPlus.csproj.CopyCompl
 D:\Programming\C#\DS3HudPlus\obj\Debug\netcoreapp3.1\DS3HudPlus.dll
 D:\Programming\C#\DS3HudPlus\obj\Debug\netcoreapp3.1\DS3HudPlus.pdb
 D:\Programming\C#\DS3HudPlus\obj\Debug\netcoreapp3.1\DS3HudPlus.genruntimeconfig.cache
+D:\Programming\C#\DS3HudPlus\obj\Debug\netcoreapp3.1\DS3HudPlus.csproj.AssemblyReference.cache
+D:\Programming\C#\DS3HudPlus\obj\Debug\netcoreapp3.1\DS3HudPlus.GeneratedMSBuildEditorConfig.editorconfig
